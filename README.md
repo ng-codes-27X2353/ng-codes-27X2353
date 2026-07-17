@@ -31,3 +31,12 @@
   <!-- Replace the href links with your actual URLs -->
   <a href="neevgarg2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+<div align="center">
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ng-codes-27X2353&show_icons=true&theme=tokyonight&hide_border=true" alt="Neev's GitHub Stats" />
+  
+  <br><br>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-codes-27X2353&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
