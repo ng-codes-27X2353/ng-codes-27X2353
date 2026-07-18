@@ -29,7 +29,7 @@
 <div align="center">
   <i>Let's connect and build something awesome.</i><br><br>
   <!-- Replace the href links with your actual URLs -->
-  <a href="neevgarg2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ <a href="mailto:neevgarg2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 <div align="center">
   <!-- I am hiding my stats until I upload my first project! 
