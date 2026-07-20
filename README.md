@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="banner.gif" alt="Ghibli Pixel Banner" width="100%" style="border-radius: 15px;" />
+  <br><br>
+</div>
+<div align="center">
   <h1>Hey, I'm Neev Garg ✌️</h1>
   <h3>Engineering Software | Building Web Experiences | Solving Problems</h3>
   <p>I'm a Computer Science undergrad focused on writing clean, efficient code and turning logic into functional, real-world applications. When I'm not debugging, I'm usually exploring new tech or optimizing my old projects.</p>
